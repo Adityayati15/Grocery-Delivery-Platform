@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Environment Variables
+.env
+
+# Prisma Generated Files
+/src/generated/prisma
+
+# Logs
+logs
+*.log
+
+# Operating System
+.DS_Store
